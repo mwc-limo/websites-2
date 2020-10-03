@@ -1,0 +1,6 @@
+[submodule "automatic-gatsbyjs-app-landing-page"]
+	path = automatic-gatsbyjs-app-landing-page
+	url = git@github.com:5starwebdesign/automatic-gatsbyjs-app-landing-page.git
+[submodule "google"]
+	path = google
+	url = https://builder12@github.com/5starwebdesign/google
